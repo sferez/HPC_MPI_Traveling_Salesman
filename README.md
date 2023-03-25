@@ -44,11 +44,11 @@ Get the executable file 'a.out'.
 ```bash
 # Run the code on 4 processes
 # using the input file 'input/dist16'
-mpirun -np 4 a.out input/dist16 
+mpirun -np 4 ./a.out input/dist16 
 # or
 # Run the code on 8 processes
 # using the input file 'input/dist17'
-mpirun -np 8 a.out input/dist17
+mpirun -np 8 ./a.out input/dist17
 ```
 
 ## Authors
