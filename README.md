@@ -5,7 +5,9 @@ This project focuses on the implementation of a High-Performance Technical Compu
 
 ## Report
 
-To be added.
+The report is available at Medium: [Article](https://medium.com/@simeon.ferez/solving-the-traveling-salesman-problem-with-parallel-computing-305f8324515d)
+
+![Article](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1tAawzqgTSE4g_Gs-uXMkA.png)
 
 ## Structure
 
